@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Mine or Yours",
+  "base_artist": "宇多田ヒカル",
+  "createdAt": "2026-02-15T01:18:39.466498Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mine or Yours",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/01_Mine_or_Yours_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mine or Yours",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Mine_or_Yours_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mine or Yours",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_Mine_or_Yours_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mine or Yours",
+      "artist": "宇多田ヒカル & Yaeji",
+      "has_synced": true,
+      "path": "select/04_Mine_or_Yours_宇多田ヒカル_&_Yaeji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mine or Yours",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Mine_or_Yours_宇多田_ヒカル.txt"
+    }
+  ]
+}
